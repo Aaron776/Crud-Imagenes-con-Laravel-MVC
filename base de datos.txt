@@ -1,0 +1,1 @@
+la base de datos usda para este proyecto se llama crud_imagenes
